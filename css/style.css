@@ -1,0 +1,104 @@
+
+body{
+  background-color: powderblue;
+}
+
+/* heading start style */
+
+h1{
+  color:tomato;
+  border:2px solid blue;
+  padding:20px;
+  text-align:center;
+}
+
+h2{
+   text-align:center;
+   background-color:rgb(255, 99, 71);
+   color:blue;
+   padding:15px;
+}
+h3{
+  font-size:30px;
+  color:MediumSeaGreen;
+  color:tomato;
+  text-align:center;
+  outline-style: dashed;
+  padding:10px;
+  border:2px solid blue;
+  margin:5px;
+}
+h4,h5,h6{
+  padding:10px;
+}
+
+/* heading end style */
+
+/*paragraph text style start */
+p{
+  color:blue;
+}
+/*paragraph text style end */
+pre{
+  color:tomato;
+}
+
+blockquote{
+  color:white;
+  background:blue;
+  padding:20px;
+}
+address{
+  color:tomato;
+}
+
+bdo{
+  color:blue;
+  background:white;
+  padding:10px 20px;
+}
+
+/*list style start */
+ul{
+  list-style-type:square;
+  color:tomato;
+  font-size:20px;
+  text-decoration:none;
+}
+ol li{
+  list-style-type:upper-alpha;
+  color:tomato;
+  font-size:20px;
+}
+
+i{
+  color:blue;
+}
+
+
+/*list style end */
+
+.kumar{
+  width:500px;
+  height:400px;
+  background-color:orange;
+  margin:20px;
+  padding:20px;
+}
+
+/*table css start */
+table{
+  border:2px solid blue;
+  width:70%;
+}
+table th{
+background-color:blue;
+padding:7px;
+color:white;
+}
+table td{
+background-color:white;
+color:blue;
+text-align:center;
+}
+/*table css end */
